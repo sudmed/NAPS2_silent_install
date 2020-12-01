@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<AppConfig>
+  <DefaultCulture>ru-RU</DefaultCulture>
+  <StartupMessageTitle></StartupMessageTitle>
+  <StartupMessageText></StartupMessageText>
+  <StartupMessageIcon>Information</StartupMessageIcon>
+<SaveButtonDefaultAction>AlwaysPrompt</SaveButtonDefaultAction>
+  <HideOcrButton>false</HideOcrButton>
+  <HideImportButton>false</HideImportButton>
+  <HideSavePdfButton>false</HideSavePdfButton>
+  <HideSaveImagesButton>false</HideSaveImagesButton>
+  <HideEmailButton>true</HideEmailButton>
+  <HidePrintButton>false</HidePrintButton>
+<HideDonateButton>true</HideDonateButton>
+  <DisableAutoSave>false</DisableAutoSave>
+  <LockSystemProfiles>false</LockSystemProfiles>
+  <LockUnspecifiedDevices>false</LockUnspecifiedDevices>
+  <NoUserProfiles>false</NoUserProfiles>
+<AlwaysRememberDevice>true</AlwaysRememberDevice>
+  <DisableGenericPdfImport>false</DisableGenericPdfImport>
+<NoUpdatePrompt>true</NoUpdatePrompt>
+  <DeleteAfterSaving>false</DeleteAfterSaving>
+  <DisableSaveNotifications>false</DisableSaveNotifications>
+  <SingleInstance>false</SingleInstance>
+  <ComponentsPath></ComponentsPath>
+<OcrTimeoutInSeconds>120</OcrTimeoutInSeconds>
+<OcrState>Enabled</OcrState>
+<OcrDefaultLanguage>rus</OcrDefaultLanguage>
+  <ForcePdfCompat>Default</ForcePdfCompat>
+  <DefaultProfileSettings>
+    <DriverName>wia</DriverName>
+    <UseNativeUI>false</UseNativeUI>
+    <PaperSource>Glass</PaperSource>
+    <BitDepth>C24Bit</BitDepth>
+<PageSize>A4</PageSize>
+    <PageAlign>Right</PageAlign>
+<Resolution>Dpi200</Resolution>
+    <AfterScanScale>OneToOne</AfterScanScale>
+    <Brightness>0</Brightness>
+    <Contrast>0</Contrast>
+    <EnableAutoSave>false</EnableAutoSave>
+    <MaxQuality>false</MaxQuality>
+    <Quality>75</Quality>
+<ExcludeBlankPages>true</ExcludeBlankPages>
+    <BlankPageWhiteThreshold>70</BlankPageWhiteThreshold>
+    <BlankPageCoverageThreshold>25</BlankPageCoverageThreshold>
+    <BrightnessContrastAfterScan>false</BrightnessContrastAfterScan>
+    <WiaOffsetWidth>false</WiaOffsetWidth>
+    <ForcePageSize>false</ForcePageSize>
+    <FlipDuplexedPages>false</FlipDuplexedPages>
+    <TwainImpl>Default</TwainImpl>
+  </DefaultProfileSettings>
+  <KeyboardShortcuts>
+    <!-- Many elements here -->
+  </KeyboardShortcuts>
+</AppConfig>
